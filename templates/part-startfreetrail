@@ -1,0 +1,13 @@
+  <section  class="free-trail-section skewed">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <hgroup>
+                        <h2 class="subheading-section">FREE TRAIL</h2>
+                        <h3 class="heading-section">Ready to get a clear view of your money?</h3>
+                    </hgroup>
+                    <a class="btn btn-primary btn-green-dark" href="#">Start free</a>
+                </div>
+            </div>
+        </div>
+    </section>  
